@@ -1,7 +1,11 @@
 ////
 // As with all Cordova plugins, you must configure within an #deviceready callback.
 //
+
+document.addEventListener('deviceready', onDeviceReady, false);
+
 function onDeviceReady() {
+    console.log('ready!')
     // Get a reference to the plugin.
     var bgGeo = window.BackgroundGeolocation;
 
