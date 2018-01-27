@@ -1,0 +1,10 @@
+{
+  "cordova-background-geolocation-lt": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-background-geolocation-lt@2.9.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

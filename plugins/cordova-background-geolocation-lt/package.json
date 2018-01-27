@@ -1,0 +1,78 @@
+{
+  "_from": "cordova-background-geolocation-lt@2.9.1",
+  "_id": "cordova-background-geolocation-lt@2.9.1",
+  "_inBundle": false,
+  "_integrity": "sha1-bT+ETw/HdsrLqKo1nDymbX2wm3A=",
+  "_location": "/cordova-background-geolocation-lt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-background-geolocation-lt@2.9.1",
+    "name": "cordova-background-geolocation-lt",
+    "escapedName": "cordova-background-geolocation-lt",
+    "rawSpec": "2.9.1",
+    "saveSpec": null,
+    "fetchSpec": "2.9.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-background-geolocation-lt/-/cordova-background-geolocation-lt-2.9.1.tgz",
+  "_shasum": "6d3f844f0fc776cacba8aa359c3ca66d7db09b70",
+  "_spec": "cordova-background-geolocation-lt@2.9.1",
+  "_where": "/Users/raphael/projects/whereyouat",
+  "author": {
+    "name": "Chris Scott, Transistor Software"
+  },
+  "bugs": {
+    "url": "https://github.com/transistorsoft/cordova-background-geolocation-lt/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-background-geolocation-lt",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Background Geolocation.  The most sophisticated, cross-platform location-tracking and geofencing plugin with battery-conscious motion-detection intelligence.",
+  "engines": {
+    "cordovaDependencies": {
+      "2.9.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0",
+        "cordova-ios": ">-4.4.0"
+      },
+      "<2.9.0": {
+        "cordova": ">=6.4.0",
+        "cordova-android": ">=6.0.0",
+        "cordova-ios": ">=4.3.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/transistorsoft/cordova-background-geolocation-lt#README",
+  "keywords": [
+    "gps",
+    "location",
+    "tracking",
+    "geolocation",
+    "geofencing",
+    "background",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova",
+    "phonegap"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-background-geolocation-lt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transistorsoft/cordova-background-geolocation-lt.git"
+  },
+  "version": "2.9.1"
+}
